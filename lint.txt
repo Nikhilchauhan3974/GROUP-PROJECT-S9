@@ -1,0 +1,56 @@
+﻿
+D:\project after 10\Group project\src\components\ErrorBoundary.jsx
+  9:35  error  'error' is defined but never used  no-unused-vars
+
+D:\project after 10\Group project\src\components\Layout.jsx
+  4:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\components\Navbar.jsx
+  5:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\components\WorkflowDetail.jsx
+  2:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\context\AuthContext.jsx
+  129:14  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+D:\project after 10\Group project\src\context\WorkflowContext.jsx
+  84:14  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+D:\project after 10\Group project\src\pages\AdminPanel.jsx
+  17:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\pages\Dashboard.jsx
+  12:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+  14:41  error  'Icon' is defined but never used                                               no-unused-vars
+  71:61  error  'idx' is defined but never used                                                no-unused-vars
+
+D:\project after 10\Group project\src\pages\Landing.jsx
+  18:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\pages\Login.jsx
+  5:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\pages\MyRequests.jsx
+  4:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\pages\Notifications.jsx
+  3:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\pages\Profile.jsx
+  4:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\pages\ReviewPanel.jsx
+  4:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\pages\RoleSelection.jsx
+  5:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\pages\Signup.jsx
+  5:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+D:\project after 10\Group project\src\pages\SubmitWorkflow.jsx
+  6:10  error  'motion' is defined but never used. Allowed unused vars must match /^[A-Z_]/u  no-unused-vars
+
+Γ£û 19 problems (19 errors, 0 warnings)
+
